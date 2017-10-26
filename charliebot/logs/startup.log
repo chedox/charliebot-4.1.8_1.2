@@ -1,0 +1,30 @@
+./logs/startup.log[2017-03-31 10:12:12] Starting Charliebot version 4.1.8
+./logs/startup.log[2017-03-31 10:12:12] Using Java VM 25.111-b14 from Sun Microsystems Inc.
+./logs/startup.log[2017-03-31 10:12:12] On Windows 7 version 6.1 (x86)
+./logs/startup.log[2017-03-31 10:12:12] Predicates with no values defined will return: "it".
+./logs/startup.log[2017-03-31 10:12:13] Initializing Multiplexor.
+./logs/startup.log[2017-03-31 10:12:13] Loading Graphmaster.
+./logs/startup.log[2017-03-31 10:12:13] Starting up with "D:\Project\charliebot_4.1.8_1.2\charliebot\conf\startup.xml".
+./logs/startup.log[2017-03-31 10:12:13] Configuring bot "Alice".
+./logs/startup.log[2017-03-31 10:12:13] Loaded 291 input substitutions.
+./logs/startup.log[2017-03-31 10:12:13] Loaded 19 gender substitutions.
+./logs/startup.log[2017-03-31 10:12:13] Loaded 9 person substitutions.
+./logs/startup.log[2017-03-31 10:12:13] Loaded 48 person2 substitutions.
+./logs/startup.log[2017-03-31 10:12:13] Loaded 4 sentence-splitters.
+./logs/startup.log[2017-03-31 10:12:14] Configuring bot "Anna".
+./logs/startup.log[2017-03-31 10:12:14] Loaded 291 input substitutions.
+./logs/startup.log[2017-03-31 10:12:14] Loaded 19 gender substitutions.
+./logs/startup.log[2017-03-31 10:12:14] Loaded 9 person substitutions.
+./logs/startup.log[2017-03-31 10:12:14] Loaded 48 person2 substitutions.
+./logs/startup.log[2017-03-31 10:12:14] Loaded 4 sentence-splitters.
+./logs/startup.log[2017-03-31 10:12:15] Configuring bot "Charlie".
+./logs/startup.log[2017-03-31 10:12:15] Loaded 291 input substitutions.
+./logs/startup.log[2017-03-31 10:12:15] Loaded 19 gender substitutions.
+./logs/startup.log[2017-03-31 10:12:15] Loaded 9 person substitutions.
+./logs/startup.log[2017-03-31 10:12:15] Loaded 48 person2 substitutions.
+./logs/startup.log[2017-03-31 10:12:15] Loaded 4 sentence-splitters.
+./logs/startup.log[2017-03-31 10:12:16] 3 bots thinking with 86853 categories.
+./logs/startup.log[2017-03-31 10:12:16] Charliebot version 4.1.8 Build [00]
+./logs/startup.log[2017-03-31 10:12:16] 86853 categories loaded in 2.672 seconds.
+./logs/startup.log[2017-03-31 10:12:16] The AIML Watcher is active.
+./logs/startup.log[2017-03-31 10:12:16] HTTP server listening at http://Hp-PC09:2001

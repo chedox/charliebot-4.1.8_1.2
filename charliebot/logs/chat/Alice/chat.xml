@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../resources/logs/view-chat.xsl"?>
+<!DOCTYPE ALLOW_HTML_ENTITIES [ <!ENTITY % HTMLlat1 PUBLIC "-//W3C//ENTITIES Latin1//EN//HTML"   "../resources/DTD/xhtml-lat1.ent"> %HTMLlat1; <!ENTITY % HTMLsymbol PUBLIC   "-//W3C//ENTITIES Symbols//EN//HTML"   "../resources/DTD/xhtml-symbol.ent"> %HTMLsymbol; <!ENTITY % HTMLspecial PUBLIC   "-//W3C//ENTITIES Special//EN//HTML"   "../resources/DTD/xhtml-special.ent"> %HTMLspecial; ]>
+<exchanges>
+    <exchange>
+        <timestamp>2017-03-31 10:12:16</timestamp>
+        <userid>Hp-PC09</userid>
+        <clientname>user</clientname>
+        <botid>Alice</botid>
+        <input>firsthello</input>
+        <response>What you said was either too complex or too simple for me.</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-03-31 10:12:36</timestamp>
+        <userid>webuser149092995698424143</userid>
+        <clientname>user</clientname>
+        <botid>Alice</botid>
+        <input>firsthello</input>
+        <response>What is your real name?</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-03-31 10:12:39</timestamp>
+        <userid>webuser149092995698424143</userid>
+        <clientname> firsthello </clientname>
+        <botid>Alice</botid>
+        <input>firsthello</input>
+        <response>What's up, firsthello.</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-03-31 10:12:39</timestamp>
+        <userid>webuser149092995698424143</userid>
+        <clientname> firsthello </clientname>
+        <botid>Alice</botid>
+        <input>firsthello</input>
+        <response>I do not understand.</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-03-31 11:06:05</timestamp>
+        <userid>webuser149092995698424143</userid>
+        <clientname> firsthello </clientname>
+        <botid>Alice</botid>
+        <input>firsthello</input>
+        <response>Are you a man or a woman?</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-03-31 11:06:07</timestamp>
+        <userid>webuser149092995698424143</userid>
+        <clientname> firsthello </clientname>
+        <botid>Alice</botid>
+        <input>firsthello</input>
+        <response>Do you prefer books or TV?</response>
+    </exchange>
+    <exchange>
+        <timestamp>2017-03-31 11:06:09</timestamp>
+        <userid>webuser149092995698424143</userid>
+        <clientname> firsthello </clientname>
+        <botid>Alice</botid>
+        <input>firsthello</input>
+        <response>Are we still talking about firsthello?</response>
+    </exchange>
+</exchanges>
